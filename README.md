@@ -15,6 +15,7 @@ The model achieved the following metric values:
   6. Mean Average Precision at 50% IoU (mAP50): 0.788
   7. mAP averaged across IoU thresholds from 0.5 to 0.95: 0.524
 
-Further, the opencv-python module was utilized to design a system that allows the user to upload a video and outputs the video with detected potholes, indicated by bounding boxes. An example can be found in the 'Results' folder.
+Further, the opencv-python module was utilized to design a system that allows the user to upload a video and outputs the video with detected potholes, indicated by bounding boxes. 
+An example can be viewed at "https://drive.google.com/drive/folders/18v9diadbVAswbR0UsgCWW421ipRCR2j3?usp=sharing".
 
 Finally, a script enabling webcam/dashcam access is also provided, which aids real-time pothole detection and warns the user when a pothole is detected. This can be intergrated in vehicle systems for a better driving experience.
